@@ -20,9 +20,9 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="cordova-plugin-file"
+           id="cordova-plugin-file1"
       version="7.0.0-dev">
-    <name>File</name>
+    <name>File1</name>
     <description>Cordova File Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,file</keywords>
